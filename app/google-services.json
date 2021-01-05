@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024777663835",
+    "firebase_url": "https://campus-placements-app-befaf.firebaseio.com",
+    "project_id": "campus-placements-app-befaf",
+    "storage_bucket": "campus-placements-app-befaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024777663835:android:8a921832fa2d3c9561567e",
+        "android_client_info": {
+          "package_name": "com.example.campusplacementsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024777663835-65nfiqnvm7uddjg91rsqt90d07uso5o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONgc7TkUsZ5Go7CSKQW5KCcm-B4lSd6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024777663835-65nfiqnvm7uddjg91rsqt90d07uso5o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

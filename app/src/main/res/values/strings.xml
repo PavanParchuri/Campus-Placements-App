@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Campus Placements App</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">User Mail-Id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_home">Home</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Profile</string>
+    <string name="menu_slideshow">Notifications</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">Logout</string>
+    <string name="menu_send">Help and Feedback</string>
+    <string name="title_activity_company">CompanyActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_c_materials">Materials</string>
+    <string name="fragment_c_home">Home</string>
+    <string name="fragment_c_tests">Tests</string>
+</resources>
